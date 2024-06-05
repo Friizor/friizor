@@ -23,8 +23,7 @@ Full-Stack Developer | Designing captivating user interfaces and building secure
 ### 📞 Contact
 
 📧 Email: [mohamedzaidi768@email.com](mailto:mohamedzaidi768@email.com) <br>
-📞 Whatsapp : <a href="https://wa.me/qr/CLJWMRP2Y2A5B1">+213-551-76-21-90</a>
-
+📞 Whatsapp : [+213-551-76-21-90](https://wa.me/qr/CLJWMRP2Y2A5B1)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=friizor&theme=dark&hide_border=false)<br/>
