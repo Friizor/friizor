@@ -27,7 +27,7 @@ Full-Stack Developer | Designing captivating user interfaces and building secure
 📞 Whatsapp : [+213-551-76-21-90](https://wa.me/qr/CLJWMRP2Y2A5B1)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=friizor&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=friizor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=friizor&theme=highcontrast&card_width=500)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=friizor&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=ffffff)
 
 
