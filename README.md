@@ -29,6 +29,7 @@ Full-Stack Developer | Designing captivating user interfaces and building secure
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=friizor&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=ffffff)<br>
 ![Mohamed Zaidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=friizor&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=bcbcbc)<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=friizor&theme=highcontrast&card_width=500)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=friizor&theme=highcontrast&card_width=500)]
+<br>
 
 
