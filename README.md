@@ -25,7 +25,8 @@ Full-Stack Developer | Designing captivating user interfaces and building secure
 ### 📞 Contact
 
 📧 Email: [zaidimoahmed@gmail.com](mailto:zaidimoahmed@gmail.com) <br>
-💬 Whatsapp : [+213-551-76-21-90](https://wa.me/qr/CLJWMRP2Y2A5B1)
+💬 Whatsapp : [+213-551-76-21-90](https://wa.me/qr/CLJWMRP2Y2A5B1) <br>
+🔗 linkedin : [Mohamed Zaidi](linkedin.com/in/mohamed-zaidi-a094b3322)
 
 # 📊 GitHub Stats:
 ![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=friizor&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=ffffff)<br>
